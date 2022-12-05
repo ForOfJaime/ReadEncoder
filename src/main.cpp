@@ -1,8 +1,8 @@
 #include <Arduino.h>
 
 //Lista de pines entrada encoder//
-const int channelPinA = 2;
-const int channelPinB = 3;
+const int channelPinA = 3;
+const int channelPinB = 2;
 const int timeThreshold = 5;
 
 long timeCounter = 0;
